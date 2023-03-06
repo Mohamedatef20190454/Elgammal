@@ -1,0 +1,3 @@
+D:/projects c++/Elgammal/cmake-build-debug/CMakeFiles/Elgammal.dir
+D:/projects c++/Elgammal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects c++/Elgammal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
